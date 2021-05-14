@@ -1,4 +1,4 @@
-# QtSolutionTemplate
+# TemplateQtSolution
 
 Template for Qt progect which is used libraries;
 
